@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Laptop",
+    "description": "Powerful laptop for all your needs.",
+    "price": 1200,
+    "image": "https://via.placeholder.com/400x300?text=Laptop"
+  },
+  {
+    "id": "2",
+    "name": "Smartphone",
+    "description": "A high-end smartphone with a stunning camera.",
+    "price": 800,
+    "image": "https://via.placeholder.com/400x300?text=Smartphone"
+  },
+  {
+    "id": "3",
+    "name": "Headphones",
+    "description": "Noise-cancelling headphones for an immersive audio experience.",
+    "price": 250,
+    "image": "https://via.placeholder.com/400x300?text=Headphones"
+  }
+]
